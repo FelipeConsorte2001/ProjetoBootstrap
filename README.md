@@ -2,7 +2,7 @@
 
 > Meu 1° projeto esta finalizado, o intuito desse projeto foi prática e adquirir novas habilidades
 
-## Tecnologia Utilizada
+## Tecnologia Utilizadas
 <ul>
   <li>HTML5</li>
   <li>CSS3</li>
